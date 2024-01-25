@@ -1,0 +1,7 @@
+﻿  Vasya is a programmer.cpp
+C:\Users\SSoni\OneDrive\Рабочий стол\Vasya is a programmer\Vasya is a programmer\Vasya is a programmer.cpp(37,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\Vasya is a programmer\Vasya is a programmer\Vasya is a programmer.cpp(42,18): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\Vasya is a programmer\Vasya is a programmer\Vasya is a programmer.cpp(64,32): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\Vasya is a programmer\Vasya is a programmer\Vasya is a programmer.cpp(89,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\SSoni\OneDrive\Рабочий стол\Vasya is a programmer\Vasya is a programmer\Vasya is a programmer.cpp(95,13): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  Vasya is a programmer.vcxproj -> C:\Users\SSoni\OneDrive\Рабочий стол\Vasya is a programmer\x64\Debug\Vasya is a programmer.exe
